@@ -12,6 +12,7 @@
 
 ## Contexts
 
+- Base Colour of new theme
 - Localstorage manager for list of of CSS themes
     - Array of Theme Lists
 - Localstorage manager for current CSS theme
